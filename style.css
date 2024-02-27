@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(170, 154, 184);
+    line-height: 30px;
+}
+
+
+h1:first-letter
+{
+    font-size: 60px;
+   color: #357e6c;
+   
+}
+h1{
+    color: #1e5e7c;
+   
+}
+#intro{
+    color: rgb(179, 92, 139);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+#intro1
+{
+color: #6ea571;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+#intro2
+{
+    font-size: 30px;
+   color: #0c8cc7;
+    letter-spacing: 2px;
+}
+#intro3
+{
+    font-size: 30px;
+   color: #df0f81;
+    letter-spacing: 2px;
+}
+#intro4
+{
+    font-size: 30px;
+  color: #0f506e;
+    letter-spacing: 2px;
+}
+#intro5
+{
+    color: #df0f81;
+    font-size: 30px;
+letter-spacing: 2px;
+}
+#para1{
+    color: rgb(163, 79, 125);
+}
